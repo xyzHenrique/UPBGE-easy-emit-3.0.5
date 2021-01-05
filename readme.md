@@ -7,8 +7,9 @@ modified by: Henrique Rodrigues
 ### 0.3.5 BUG FIXES ###
 (EN-US // PT-BR)
 
-solved graphical error in the interface.
-resolvido erro gráfico na interface.
+
+-solved graphical error in the interface.
+-resolvido erro gráfico na interface.
 
 an error was corrected that when saving the .blend file, it does not save the particles, and it is not possible to edit the object.
 foi corrigido um erro que ao salvar o arquivo .blend, o mesmo não salva as particulas, e não é era possível a edição do objeto.
