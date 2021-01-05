@@ -1,19 +1,19 @@
-easyemit_0.3.5
+-- easyemit_0.3.5 -- 
+VERSION: 0.3.5 (tested only on UPBGE 0.2.4) 
+
 original author: Andreas Esau
-edited by: Henrique Rodrigues
-version: 0.3.5
+modified by: Henrique Rodrigues
 
-#0.3 Bug fixes
--Fixed a graphic bug in the interface.
-Resolvido um bug gr·fico na interface.
+### 0.3.5 BUG FIXES ###
+(EN-US // PT-BR)
 
--It was fixed an error that when saving a .blend file, when loading this same file with the Particles, it was not possible to change that object anymore.
-Foi arrumado um erro que ao salvar um arquivo .blend, ao carregar esse mesmo arquivo com as Particulas, n„o era possivel mais alterar aquele objeto.
+solved graphical error in the interface.
+resolvido erro gr√°fico na interface.
 
--It has been arranged some code lines that are not interacting with UPBGE 0.2.4.
-Foi arrumado umas linhas de cÛdigos que n„o est„o interagindo com a UPBGE 0.2.4.
+an error was corrected that when saving the .blend file, it does not save the particles, and it is not possible to edit the object.
+foi corrigido um erro que ao salvar o arquivo .blend, o mesmo n√£o salva as particulas, e n√£o √© era poss√≠vel a edi√ß√£o do objeto.
 
--Fixed a graphic error in the interface that happened sometimes.
-Foi corrigido um erro gr·fico na interface que acontecia as vezes.
+lines of code that do not interact with UPBGE 0.2.4 have been fixed.
+foi corrigido linhas de c√≥digo que n√£o interajem com a UPBGE 0.2.4.
 
-official link: https://blenderartists.org/t/easyemit-update-13-06-2013/528897
+official addon link: https://blenderartists.org/t/easyemit-update-13-06-2013/528897
