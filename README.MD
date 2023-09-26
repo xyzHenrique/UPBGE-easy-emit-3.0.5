@@ -1,7 +1,7 @@
 # Easy Emit
 Easy Emit Addon, Adjusted and modified version for UPBGE 0.2.4x, original version:<br> https://blenderartists.org/t/easyemit-update-13-06-2013/528897
 
-## VERSION v3.0.5
+# VERSION v3.0.5
 
 ### ~ Description
 - Original Creator: Andreas Esau (https://blenderartists.org/u/ndee)<br>
