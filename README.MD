@@ -6,7 +6,7 @@ Original version:<br> https://blenderartists.org/t/easyemit-update-13-06-2013/52
 
 ~ Description
 - Original Creator: Andreas Esau (https://blenderartists.org/u/ndee)<br>
-- Modified by: Henrique Rodrigues Pereira (https://github.com/henrique-rodrigues-013)
+- Modified by: Henrique Rodrigues Pereira (https://github.com/xyzHenrique)
 
 ~ Bug Fixes
 
